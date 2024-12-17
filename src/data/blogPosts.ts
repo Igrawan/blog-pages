@@ -39,7 +39,6 @@ export const blogPosts: BlogPost[] = [
     `,
     image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=800",
     category: "Technology",
-    date: "Mar 15, 2024",
     author: "Dr. Sarah Johnson",
     readTime: "5 min read"
   },
@@ -74,7 +73,6 @@ export const blogPosts: BlogPost[] = [
     `,
     image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=800",
     category: "Healthcare",
-    date: "Mar 10, 2024",
     author: "Tech Health Team",
     readTime: "4 min read"
   },
@@ -113,7 +111,7 @@ export const blogPosts: BlogPost[] = [
     `,
     image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=800",
     category: "Security",
-    date: "Mar 8, 2024",
+
     author: "Mike Chen",
     readTime: "6 min read"
   },
@@ -149,7 +147,7 @@ export const blogPosts: BlogPost[] = [
     `,
     image: "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?auto=format&fit=crop&w=800",
     category: "Healthcare",
-    date: "Mar 5, 2024",
+ 
     author: "Dr. Emily White",
     readTime: "7 min read"
   },
@@ -187,7 +185,6 @@ export const blogPosts: BlogPost[] = [
     `,
     image: "https://images.unsplash.com/photo-1644143379190-08a5f055de1d?auto=format&fit=crop&w=800",
     category: "Technology",
-    date: "Mar 3, 2024",
     author: "Alex Thompson",
     readTime: "5 min read"
   },
@@ -225,7 +222,6 @@ export const blogPosts: BlogPost[] = [
     `,
     image: "https://images.unsplash.com/photo-1562813733-b31f71025d54?auto=format&fit=crop&w=800",
     category: "Technology",
-    date: "Feb 28, 2024",
     author: "Dr. Robert Lee",
     readTime: "4 min read"
   },
@@ -258,7 +254,6 @@ export const blogPosts: BlogPost[] = [
     `,
     image: "https://images.unsplash.com/photo-1576091160101-2a8b7a875d6a?auto=format&fit=crop&w=800",
     category: "Healthcare",
-    date: "Feb 25, 2024",
     author: "Dr. Lisa Martinez",
     readTime: "6 min read"
   },
@@ -292,7 +287,6 @@ export const blogPosts: BlogPost[] = [
     `,
     image: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=800",
     category: "Technology",
-    date: "Feb 20, 2024",
     author: "Dr. James Wilson",
     readTime: "5 min read"
   }
